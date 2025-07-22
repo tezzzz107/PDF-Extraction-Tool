@@ -1,0 +1,24 @@
+# PDF Content Extraction Tool - Requirements
+# AI/Python Internship Assignment - Part 1
+
+# Core PDF processing library
+PyMuPDF>=1.21.0
+
+# Image processing and manipulation
+Pillow>=9.0.0
+
+# Additional PDF processing capabilities
+pdfplumber>=0.7.0
+
+# Standard libraries (usually included with Python)
+# json - Built-in
+# re - Built-in
+# os - Built-in
+# sys - Built-in
+# argparse - Built-in
+# typing - Built-in (Python 3.5+)
+
+# Optional: For enhanced functionality
+# numpy>=1.21.0          # For advanced image processing
+# matplotlib>=3.5.0      # For image visualization
+# opencv-python>=4.5.0   # For computer vision tasks (Part 2/3)
